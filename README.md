@@ -2,9 +2,10 @@
 
 <div align="center">
   <p>------------------------------------------------------------------------------------------------</p>
-  <h2>About Myself</h2>
+  <strong> 👨🏻‍💻 About Myself 🎮 </strong>
   <p>I'm an aspiring software developer with a knack for learning things fast.</p>
-  <p>I love watching devlogs of videogames and would one day like to make one myself</p>
+  <p>I love watching devlogs of videogames and would one day like to make one myself.</p>
+  <p>Currently learning TypeScript and C++!</p>
   <p>------------------------------------------------------------------------------------------------</p>
 </div>
 
@@ -45,12 +46,11 @@
   <ul align="left">
     <li>My favorite videogame is Hollow Knight</li>
     <li>I have played guitar for over a decade</li>
-    <li>My favorite band is "The Strokes" (even though I'm a metal-head)</li>
   </ul>
 </div>
-
+<br>
 <div align="center">
   <a href="https://open.spotify.com/user/jesusjagl2004">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jesusjagl2004&count=10" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jesusjagl2004&count=5" />
   </a>
 </div>
