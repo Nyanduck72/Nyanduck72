@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Firebase-Dark.svg" height="40" alt="firebase logo"/>
   <img width="12" />
-  <img src="https://www.compsmag.com/alternative/wp-content/uploads/sites/29/2021/01/sauerbraten-circuit-simulator-600x600.png" height="40" alt="packet tracer logo"/>
+  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="40" alt="packet tracer logo"/>
   <img width="12" />
   <img src="https://static.vecteezy.com/system/resources/previews/022/841/114/original/chatgpt-logo-transparent-background-free-png.png"height="40" alt="yepetin logo"/>
   <img width="12" />
