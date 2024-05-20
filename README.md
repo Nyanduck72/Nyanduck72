@@ -56,7 +56,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://open.spotify.com/user/jesusjagl2004">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jesusjagl2004&count=5" />
-  </a>
+    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=jesusjagl2004&redirect=true">
+      <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=jesusjagl2004&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=fff&bar_color_cover=false" alt="Spotify Now Playing" />
+    </a>
 </div>
