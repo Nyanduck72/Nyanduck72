@@ -47,13 +47,6 @@
   <img width="12" />
 </div>
 
-<div align="center">
-  <h2><strong>Some fun facts about me :)</strong></h2>
-  <ul align="left">
-    <li>My favorite videogame is Hollow Knight</li>
-    <li>I have played guitar for over a decade</li>
-  </ul>
-</div>
 <br>
 <div align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=jesusjagl2004&redirect=true">
